@@ -63,7 +63,7 @@ We visualized key patterns through views focused on:
 - Evolution by decade  
 - Victim count vs method used
 
-We also created a **custom color palette, which was added as a default theme in Tableau to maintain consistent visual identity across all dashboards.
+We also created a custom color palette, which was added as a default theme in Tableau to maintain consistent visual identity across all dashboards.
 
 The result is a collection of clear and unified visualizations, accessible to both technical and non-technical audiences.
 
