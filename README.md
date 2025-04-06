@@ -25,7 +25,7 @@ The objective of the project is to investigate and analyse data on serial killer
 
 ### 1. Original datasets
 
-We started from several datasets found on Kaggle containing basic information about serial killers. These files can be found in the `data/` folder.
+We started from several datasets found on Kaggle containing basic information about serial killers. These files can be found in the `Primary database/` folder.
 
 ### 2. EDA and data cleaning
 
