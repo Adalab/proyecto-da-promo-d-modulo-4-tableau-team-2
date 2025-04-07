@@ -35,7 +35,7 @@ We performed exploratory data analysis and cleaning to:
 - Normalize categories (countries, weapons, charges...)  
 - Prepare the dataset for enrichment and visualization
 
-> Notebook: `EDA y limpieza 05-04.ipynb`
+> Notebook: `EDA y limpieza.ipynb`
 
 ### 3. Web scraping and enrichment
 
@@ -44,11 +44,11 @@ We used web scraping (mainly Wikipedia) to enrich the dataset with additional de
 - Weapons used by each killer  
 - Specific crime types (e.g., cannibalism, child abuse, sexual violence)
 
-> Script: `scrapin y union final.py`
+> Script: `web scraping 1.ipynb`
 
 ### 4. Final dataset
 
-The final version, `final_final.csv`, contains one row per killer per country, with all fields cleaned and enriched for further analysis.
+The final version, `Final-data/final_final.csv`, contains one row per killer per country, with all fields cleaned and enriched for further analysis.
 
 ---
 
