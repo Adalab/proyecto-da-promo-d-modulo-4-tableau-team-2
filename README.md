@@ -45,7 +45,7 @@ We used web scraping (mainly Wikipedia) to enrich the dataset with additional de
 - Specific crime types (e.g., cannibalism, child abuse, sexual violence)
 
 > Script: `web scraping 1.ipynb`
-> > Script: `web scraping 2.ipynb`
+> Script: `web scraping 2.ipynb`
 
 ### 4. Final dataset
 
@@ -55,7 +55,7 @@ The final version, `Final-data/final_final.csv`, contains one row per killer per
 
 ## Data visualization with Tableau
 
-The core part of our analysis was carried out in **Tableau**, where we built a set of interactive dashboards stored in the file `LibroCasiFinal_06.04 con KPI.twbx`.
+The core part of our analysis was carried out in **Tableau**, where we built a set of interactive dashboards stored in the file `Analisis de datos.twbx`.
 
 We visualized key patterns through views focused on:
 
