@@ -45,6 +45,7 @@ We used web scraping (mainly Wikipedia) to enrich the dataset with additional de
 - Specific crime types (e.g., cannibalism, child abuse, sexual violence)
 
 > Script: `web scraping 1.ipynb`
+> > Script: `web scraping 2.ipynb`
 
 ### 4. Final dataset
 
